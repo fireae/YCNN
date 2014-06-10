@@ -1,0 +1,4 @@
+*.o
+*.csv
+*.exe
+.DS_Store
